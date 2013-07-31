@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 kiwiluver75's vimrc
 ===================
 
