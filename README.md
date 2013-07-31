@@ -13,7 +13,7 @@ Requires that you have no prior vim configuration related files
 Install and Upgrade Plugins
 ---------------------------
 
-Most plugins are checked out as git submodules, so they can be updated 
+All plugins are checked out as git submodules, so they can be updated 
 using `git pull`. For example, to upgrade example-bundle
 
     cd ~/.vim/bundle/example-bundle
@@ -31,6 +31,10 @@ I talk more about the plugins in the Bundles folder
 * [Zen Coding](https://github.com/mattn/zencoding-vim): expanding abbreviation like zen-coding.
 
 * [UltiSnips](https://github.com/SirVer/ultisnips): implementation of TextMate snippets for vim
+
+* [vim-jade](https://github.com/digitaltoad/vim-jade): Vim Jade template engine syntax highlighting and indention
+
+* [vim-javascript](https://github.com/pangloss/vim-javascript): JavaScript bundle for Vim, this bundle provides syntax and indent plugins
 
 
 
