@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/puneeth/node-projects/chat/views'
+let g:netrw_dirhist_2='/home/puneeth/main-web/lib'
+let g:netrw_dirhist_3='/home/puneeth/main-web/lib/register-api'
+let g:netrw_dirhist_4='/home/puneeth/main-web/views'
+let g:netrw_dirhist_5='/home/puneeth/main-web/public/javascripts'
+let g:netrw_dirhist_6='/home/puneeth/.vim/snippets'
