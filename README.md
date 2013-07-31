@@ -35,9 +35,3 @@ I talk more about the plugins in the Bundles folder
 
 
 
-=======
-vimrc
-=====
-
-kiwiluver75's vimrc
->>>>>>> 6b03caffb79306c7c6379725242d814c43c0dab2
